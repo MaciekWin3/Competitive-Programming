@@ -1,0 +1,6 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\1220A\1220A\bin\Debug\1220A.exe.config
+F:\Repozytorium\Competitive-Programming\CodeForces\1220A\1220A\bin\Debug\1220A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\1220A\1220A\bin\Debug\1220A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\1220A\1220A\obj\Debug\1220A.csprojAssemblyReference.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\1220A\1220A\obj\Debug\1220A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\1220A\1220A\obj\Debug\1220A.pdb

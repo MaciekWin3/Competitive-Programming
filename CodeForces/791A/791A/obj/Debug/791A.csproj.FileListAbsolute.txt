@@ -1,0 +1,6 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\791A\791A\bin\Debug\791A.exe.config
+F:\Repozytorium\Competitive-Programming\CodeForces\791A\791A\bin\Debug\791A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\791A\791A\bin\Debug\791A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\791A\791A\obj\Debug\791A.csprojAssemblyReference.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\791A\791A\obj\Debug\791A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\791A\791A\obj\Debug\791A.pdb

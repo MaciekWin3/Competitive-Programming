@@ -1,0 +1,6 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\935A\935A\bin\Debug\935A.exe.config
+F:\Repozytorium\Competitive-Programming\CodeForces\935A\935A\bin\Debug\935A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\935A\935A\bin\Debug\935A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\935A\935A\obj\Debug\935A.csprojAssemblyReference.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\935A\935A\obj\Debug\935A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\935A\935A\obj\Debug\935A.pdb
