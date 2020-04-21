@@ -1,0 +1,6 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\200B\200B\bin\Debug\200B.exe.config
+F:\Repozytorium\Competitive-Programming\CodeForces\200B\200B\bin\Debug\200B.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\200B\200B\bin\Debug\200B.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\200B\200B\obj\Debug\200B.csprojAssemblyReference.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\200B\200B\obj\Debug\200B.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\200B\200B\obj\Debug\200B.pdb
