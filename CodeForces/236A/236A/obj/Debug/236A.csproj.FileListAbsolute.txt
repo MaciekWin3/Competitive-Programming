@@ -1,0 +1,6 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\236A\236A\bin\Debug\236A.exe.config
+F:\Repozytorium\Competitive-Programming\CodeForces\236A\236A\bin\Debug\236A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\236A\236A\bin\Debug\236A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\236A\236A\obj\Debug\236A.csprojAssemblyReference.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\236A\236A\obj\Debug\236A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\236A\236A\obj\Debug\236A.pdb
