@@ -1,0 +1,12 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\obj\Debug\netcoreapp3.1\703A.csproj.CoreCompileInputs.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\obj\Debug\netcoreapp3.1\703A.AssemblyInfoInputs.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\obj\Debug\netcoreapp3.1\703A.AssemblyInfo.cs
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\bin\Debug\netcoreapp3.1\703A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\bin\Debug\netcoreapp3.1\703A.deps.json
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\bin\Debug\netcoreapp3.1\703A.runtimeconfig.json
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\bin\Debug\netcoreapp3.1\703A.runtimeconfig.dev.json
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\bin\Debug\netcoreapp3.1\703A.dll
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\bin\Debug\netcoreapp3.1\703A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\obj\Debug\netcoreapp3.1\703A.dll
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\obj\Debug\netcoreapp3.1\703A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\703A\703A\obj\Debug\netcoreapp3.1\703A.genruntimeconfig.cache
