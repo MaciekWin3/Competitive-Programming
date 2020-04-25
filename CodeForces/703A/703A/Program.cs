@@ -56,7 +56,7 @@ namespace _703A
             {
                 Console.WriteLine("Friendship is magic!^^");
             }
-            Console.ReadKey();
+            //Console.ReadKey();
 
         }
     }
