@@ -12,12 +12,11 @@ while(i < t):
 i = 0
 
 while(i < t):
-    w = tab[i]
-    if(w[-1] == 'o'):
+    if(tab[i][-1] == 'o'):
         print('FILIPINO')
-    elif(w[-1] == 'u'):
+    elif(tab[i][-1] == 'u'):
         print('JAPANESE')
-    elif(w[-1] == 'a'):
+    elif(tab[i][-1] == 'a'):
         print('KOREAN')
     i = i + 1
 
