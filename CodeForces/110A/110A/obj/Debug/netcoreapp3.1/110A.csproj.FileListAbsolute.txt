@@ -1,0 +1,13 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\bin\Debug\netcoreapp3.1\110A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\bin\Debug\netcoreapp3.1\110A.deps.json
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\bin\Debug\netcoreapp3.1\110A.runtimeconfig.json
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\bin\Debug\netcoreapp3.1\110A.runtimeconfig.dev.json
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\bin\Debug\netcoreapp3.1\110A.dll
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\bin\Debug\netcoreapp3.1\110A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\obj\Debug\netcoreapp3.1\110A.csprojAssemblyReference.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\obj\Debug\netcoreapp3.1\110A.csproj.CoreCompileInputs.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\obj\Debug\netcoreapp3.1\110A.AssemblyInfoInputs.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\obj\Debug\netcoreapp3.1\110A.AssemblyInfo.cs
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\obj\Debug\netcoreapp3.1\110A.dll
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\obj\Debug\netcoreapp3.1\110A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\110A\110A\obj\Debug\netcoreapp3.1\110A.genruntimeconfig.cache
