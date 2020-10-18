@@ -1,0 +1,13 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\obj\Debug\netcoreapp3.1\59A.csprojAssemblyReference.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\obj\Debug\netcoreapp3.1\59A.csproj.CoreCompileInputs.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\obj\Debug\netcoreapp3.1\59A.AssemblyInfoInputs.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\obj\Debug\netcoreapp3.1\59A.AssemblyInfo.cs
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\bin\Debug\netcoreapp3.1\59A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\bin\Debug\netcoreapp3.1\59A.deps.json
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\bin\Debug\netcoreapp3.1\59A.runtimeconfig.json
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\bin\Debug\netcoreapp3.1\59A.runtimeconfig.dev.json
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\bin\Debug\netcoreapp3.1\59A.dll
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\bin\Debug\netcoreapp3.1\59A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\obj\Debug\netcoreapp3.1\59A.dll
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\obj\Debug\netcoreapp3.1\59A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\59A\obj\Debug\netcoreapp3.1\59A.genruntimeconfig.cache
