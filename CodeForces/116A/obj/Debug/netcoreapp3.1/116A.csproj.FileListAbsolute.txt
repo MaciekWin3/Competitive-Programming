@@ -1,0 +1,13 @@
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\bin\Debug\netcoreapp3.1\116A.exe
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\bin\Debug\netcoreapp3.1\116A.deps.json
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\bin\Debug\netcoreapp3.1\116A.runtimeconfig.json
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\bin\Debug\netcoreapp3.1\116A.runtimeconfig.dev.json
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\bin\Debug\netcoreapp3.1\116A.dll
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\bin\Debug\netcoreapp3.1\116A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\obj\Debug\netcoreapp3.1\116A.csprojAssemblyReference.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\obj\Debug\netcoreapp3.1\116A.csproj.CoreCompileInputs.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\obj\Debug\netcoreapp3.1\116A.AssemblyInfoInputs.cache
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\obj\Debug\netcoreapp3.1\116A.AssemblyInfo.cs
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\obj\Debug\netcoreapp3.1\116A.dll
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\obj\Debug\netcoreapp3.1\116A.pdb
+F:\Repozytorium\Competitive-Programming\CodeForces\116A\obj\Debug\netcoreapp3.1\116A.genruntimeconfig.cache
