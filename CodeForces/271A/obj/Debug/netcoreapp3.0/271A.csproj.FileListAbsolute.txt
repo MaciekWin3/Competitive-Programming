@@ -1,0 +1,11 @@
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\bin\Debug\netcoreapp3.0\271A.exe
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\bin\Debug\netcoreapp3.0\271A.deps.json
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\bin\Debug\netcoreapp3.0\271A.runtimeconfig.json
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\bin\Debug\netcoreapp3.0\271A.runtimeconfig.dev.json
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\bin\Debug\netcoreapp3.0\271A.dll
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\bin\Debug\netcoreapp3.0\271A.pdb
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\obj\Debug\netcoreapp3.0\271A.csprojAssemblyReference.cache
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\obj\Debug\netcoreapp3.0\271A.AssemblyInfoInputs.cache
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\obj\Debug\netcoreapp3.0\271A.AssemblyInfo.cs
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\obj\Debug\netcoreapp3.0\271A.dll
+D:\Repozytorium\CP\Competitive-Programming\CodeForces\271A\obj\Debug\netcoreapp3.0\271A.pdb
